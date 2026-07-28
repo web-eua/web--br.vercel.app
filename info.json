@@ -1,0 +1,156 @@
+{
+  "cpf": {
+    "title": "CPF Generator & Validator",
+    "description": "Gerador e validador de CPF brasileiro com algoritmo oficial.",
+    "category": "Utilitários",
+    "tags": [
+      "brasil",
+      "documento",
+      "validação"
+    ],
+    "icon": "C"
+  },
+  "cdn": {
+    "title": "CDN Assets",
+    "description": "Repositório de assets e recursos estáticos para projetos web.",
+    "category": "Infraestrutura",
+    "tags": [
+      "assets",
+      "cdn",
+      "estático"
+    ],
+    "icon": "D"
+  },
+  "kwai": {
+    "title": "Kwai Tools",
+    "description": "Ferramentas e utilitários para criadores de conteúdo Kwai.",
+    "category": "Redes Sociais",
+    "tags": [
+      "kwai",
+      "vídeo",
+      "social"
+    ],
+    "icon": "K"
+  },
+  "bluestacks": {
+    "title": "BlueStacks Hub",
+    "description": "Central de recursos, configs e otimizações para BlueStacks.",
+    "category": "Emuladores",
+    "tags": [
+      "android",
+      "emulador",
+      "games"
+    ],
+    "icon": "B"
+  },
+  "iptv": {
+    "title": "IPTV Manager",
+    "description": "Gerenciador de listas e canais IPTV com interface simples.",
+    "category": "Streaming",
+    "tags": [
+      "iptv",
+      "tv",
+      "streaming"
+    ],
+    "icon": "I"
+  },
+  "drama": {
+    "title": "Drama Tracker",
+    "description": "Acompanhamento de doramas e séries asiáticas.",
+    "category": "Entretenimento",
+    "tags": [
+      "dorama",
+      "séries",
+      "tracker"
+    ],
+    "icon": "D"
+  },
+  "pdt": {
+    "title": "PDT Tools",
+    "description": "Ferramentas para declaração e cálculos do PDT.",
+    "category": "Fiscal",
+    "tags": [
+      "imposto",
+      "declaração",
+      "brasil"
+    ],
+    "icon": "P"
+  },
+  "appstore": {
+    "title": "AppStore Landing",
+    "description": "Landing page e catálogo de aplicativos recomendados.",
+    "category": "Loja",
+    "tags": [
+      "apps",
+      "landing",
+      "catálogo"
+    ],
+    "icon": "A"
+  },
+  "brasil": {
+    "title": "Brasil Info",
+    "description": "Informações, dados e utilitários sobre o Brasil.",
+    "category": "Utilitários",
+    "tags": [
+      "brasil",
+      "dados",
+      "info"
+    ],
+    "icon": "B"
+  },
+  "cep": {
+    "title": "CEP Finder",
+    "description": "Busca de endereços por CEP com integração ViaCEP.",
+    "category": "Utilitários",
+    "tags": [
+      "cep",
+      "endereço",
+      "brasil"
+    ],
+    "icon": "E"
+  },
+  "encurta": {
+    "title": "URL Shortener",
+    "description": "Encurtador de URLs com estatísticas de cliques.",
+    "category": "Produtividade",
+    "tags": [
+      "url",
+      "shortener",
+      "links"
+    ],
+    "icon": "C"
+  },
+  "qrcode": {
+    "title": "QR Code Studio",
+    "description": "Gerador e leitor de QR Codes com design customizável.",
+    "category": "Produtividade",
+    "tags": [
+      "qrcode",
+      "scanner",
+      "gerador"
+    ],
+    "icon": "Q"
+  },
+  "placa": {
+    "title": "Placa BR Consulta",
+    "description": "Consulta de dados de veículos por placa no Brasil.",
+    "category": "Utilitários",
+    "tags": [
+      "veículo",
+      "placa",
+      "consulta"
+    ],
+    "icon": "P"
+  },
+  "arquivos": {
+    "title": "Arquivos Hub",
+    "description": "Projetos completos de sites e programas Windows e Android.",
+    "category": "Repositório",
+    "tags": [
+      "projetos",
+      "arquivos",
+      "download"
+    ],
+    "icon": "A"
+  }
+}
